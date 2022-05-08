@@ -1,0 +1,50 @@
+We want to create a new content website
+It will called
+
+agilestamin%&a.com
+
+the website will provide different contents in the following areas
+
+
+-Requirements and specifications
+-Team management
+-Software Architecture
+-Coding
+-Devops
+
+
+The website will start with two types of contents
+
+-Blogpost
+-Podcast
+
+Each content belongs to one of the above category (for sake of simplicity)
+We have USERS who want to receive the new contents for their preferred category via email. One email per content. Email contains 
+
+Title
+Category
+URL
+Author
+Publishing date
+ 
+
+----------------------------------------------------------------
+We have EDITORS who can create new contents (both podcast and blog post)
+EDITORS publish new contents using a publishing tool.
+The publishing  for blogpost must perform the following task (in this order)
+
+-spell checking
+-auto translator
+-broken link check
+-style htlm
+-publish to users
+
+The publishing tool for podcast must run the following tasks
+
+-audio optimization
+-create optimized stream
+-create transcription
+-publish to users
+ 
+
+
